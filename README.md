@@ -1,4 +1,7 @@
-## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ Backend Developer | Go Enthusiast 
+<h2 align="center">Backend Developer | Go Enthusiast</h1>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤSelf-taught developer, focusing on **Go**, little experience with C++, interested in CS. ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ ㅤㅤ        ㅤㅤ*Rust someday* :crab:
+<p align="center">
+Self-taught developer, focusing on <strong>Go</strong>, little experience with C++, interested in CS.
+</p>
 
+<p align="center"><em>Rust someday</em> 🦀</p>
